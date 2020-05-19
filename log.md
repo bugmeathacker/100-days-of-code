@@ -32,14 +32,6 @@
 
 **Link to work(s):** 
 
-### Day 3: May 15, 2020
-
-**Today's Progress**: BOTW Armor page. Worked on dynamically changing cotent in a div without reloading. 
-
-**Thoughts:** Got the dynamic content working. The main armor section test is done. Still need create a data structure to hold all the different armors. Also, did some visual work. Added a background, some transparency, and text sizing.
-
-**Link to work(s):** 
-
 ### Day 5: May 17, 2020
 
 **Today's Progress**: Haven't transfered over my BOTW files to my new setup yet. Started a layout experiment based on the hub.docker website. 
