@@ -24,7 +24,7 @@
 
 **Link to work(s):** 
 
-### Day 3: May 15, 2020
+### Day 4: May 15, 2020
 
 **Today's Progress**: BOTW Armor page. Worked on dynamically changing cotent in a div without reloading. 
 
@@ -40,7 +40,7 @@
 
 **Link to work(s):** 
 
-### Day 3: May 17, 2020
+### Day 5: May 17, 2020
 
 **Today's Progress**: Haven't transfered over my BOTW files to my new setup yet. Started a layout experiment based on the hub.docker website. 
 
@@ -48,7 +48,7 @@
 
 **Link to work(s):** 
 
-### Day 3: May 18, 2020
+### Day 6: May 18, 2020
 
 **Today's Progress**: Docker layout. Switched to grid. Created main section and footer. 
 
